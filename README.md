@@ -1,4 +1,4 @@
-This code implements the closed-form solution of Lamb's problem (type II) for large Poisson's ratio (nu > 0.2631)
+This code implements the closed-form solution for Lamb's problem (type II) with large Poisson's ratio (nu > 0.2631)
 
 A sample scirpt (test.m) is include in the package to show how to use the code.
 
