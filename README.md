@@ -8,4 +8,4 @@ References:
 
 Exact closed-form solutions for Lamb’s problem, Xi Feng and Haiming Zhan, GJI, 2018.
 
-A note on exact closed-form solution for Lamb's problem with an arbitrary Poisson's ratio, Shaoqian Hu and Xiaohuan Jiang, GJI, submitted, 2024
+A note on exact closed-form solution for Lamb's problem with an arbitrary Poisson's ratio, Shaoqian Hu and Xiaohuan Jiang, submitted, 2024
